@@ -1,1 +1,2 @@
-# homepage
+# Homepage
+Minimal homepage for browsers
